@@ -1,3 +1,8 @@
-# Build folder and log file
-build/
-build.log
+.sass-cache/
+*.css.map
+*._normalize.css
+*._style.css
+*._style.scss
+*._index.html
+*._gulpfile.js
+*._
